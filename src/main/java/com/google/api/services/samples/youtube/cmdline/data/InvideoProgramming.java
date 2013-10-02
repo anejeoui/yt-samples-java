@@ -150,7 +150,7 @@ public class InvideoProgramming {
             System.out.println("\t- Invideo promotion URL: " + promotedItem
                     .getId()
                     .getWebsiteUrl());
-            System.out.println("\t- Promotion message: " + promotedItem.getCustomMessage();
+            System.out.println("\t- Promotion message: " + promotedItem.getCustomMessage());
 
             // This example below sets a custom watermark for the channel. We'll use a sample watermark.jpg that's
             // provided in the resources directory.
